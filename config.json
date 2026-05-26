@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpalculate",
+        "uuid": 1279758,
+        "checksum": "sdzcht"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
